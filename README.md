@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma&theme=light)](https://skillicons.dev)
 <!--
 **yeffersonbl89/yeffersonbl89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
